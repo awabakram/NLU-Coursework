@@ -137,6 +137,11 @@ env.bak/
 venv.bak/
 myenv/
 
+nli_bert_model.zip
+nli_svm_model.joblib
+/nli_bert_model
+.DS_Store
+
 # Spyder project settings
 .spyderproject
 .spyproject
